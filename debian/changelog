@@ -1,3 +1,9 @@
+xplayer-pl-parser (1.0.2-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 14 Apr 2019 21:26:49 +0200
+
 xplayer-pl-parser (1.0.2) sarah; urgency=medium
 
   [ gogogogi ]
